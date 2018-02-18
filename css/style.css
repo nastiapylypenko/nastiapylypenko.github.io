@@ -1,0 +1,1184 @@
+body
+{
+  width: 1281px;
+  height: 619px;
+  background-color:f9f2f0;
+}
+p, h1, h2, a
+{
+   font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+}
+a{
+	text-decoration: none;
+}
+a:hover
+{
+	color:#719eb4;
+}
+.ajvazowski {
+  width: 957px;
+  height: 469px;
+  object-fit: contain;
+  margin:71 162 79 162;
+  position: relative;
+}
+.arrow {
+  width: 27px;
+  height: 16px;
+  position: fixed;
+  object-fit: contain;
+  margin:555 627 48 627;
+}
+.artwork {
+  width: 365px;
+  height: 495px;
+  object-fit: contain;
+  margin:62 647 62 269;
+  }
+
+
+.ivan-ajvazovski {
+  width: 505px;
+  height: 69px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 75px;
+  line-height: 0.24;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #101010 ;
+  margin:165 242 323 632;
+  position:absolute;
+}
+
+.section p.ivan-ajvazovski.white {
+  color: #ffffff;
+  margin:165 142 323 526;
+}
+.was-born-on {
+  width: 119px;
+  height: 15px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 21px;
+  line-height: 0.94;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin:243 557 361 635;
+}
+
+.section p.was-born-on.white {
+  color: #ffffff;
+  margin:243 557 361 605;
+}
+.july-1817 {
+  width: 192px;
+  height: 35px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #101010;
+  position: absolute;
+  margin: 282 426 302 662;
+}
+.city-of-Feodos
+{
+  width: 254px;
+  height: 174px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: -0.2px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin: 338 319 107 708;
+}
+.blue-line2 {
+  width: 13px;
+  height: 474px;
+  object-fit: contain;
+  position: absolute;
+  margin: 83 162 62 1106;
+  background-color: #002d40;
+}
+img.ship
+{
+  z-index:4;
+  width: 1026px;
+  height: 618px;
+  object-fit: contain;
+  position: relative;
+  padding: 1 255 0 0;
+  
+}
+.left-bottom-rectangle {
+  z-index:5;
+  width: 14px;
+  height: 50px;
+  object-fit: contain;
+  background-color: #d9ecf2;
+  position: absolute;
+  margin:569 1105 0 162;
+}
+.grean-rectangle {
+  z-index: 5;
+  width: 393px;
+  height: 193px;
+  object-fit: contain;
+  position: absolute;
+  margin:0 254 0 634;
+  background-color: #4d6a68;
+
+}
+.in-1833 {
+  z-index: 6;
+  width: 249px;
+  height: 50px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 71px;
+  line-height: 0.24;
+  letter-spacing: 3px;
+  text-align: justify;
+  position: absolute;
+  margin:163 324 425 708;
+  color:#f8f1ef ;
+   
+}
+.his-talent{
+	z-index: 6;
+  width: 248px;
+  height: 100px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 12px;
+  line-height: 1.5;
+  letter-spacing: -0.2px;
+  text-align: justify;
+  color: #101010;
+  margin:211 328 308 705;
+  position: absolute;
+}
+.his-talent.his-first {
+  white-space:pre-wrap;
+  width: 251px;
+  height: 102px;
+  margin: 335 325 171 705;
+}
+.his-talent.joined-the-battle
+{
+	width: 257px;
+    height: 46px;
+    margin: 482 319 87 705;
+     
+}
+  .square {
+  	z-index: 5;
+  width: 52px;
+  height: 55px;
+  object-fit: contain;
+  background-color:#d9ecf2;
+  margin: 299 530 264 699;
+  position:absolute;
+}
+.in-1835 {
+  z-index: 6;
+  width: 116px;
+  height: 26px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #101010;
+  position:absolute;
+  margin: 327 425 266 713;
+
+}
+.in-1835.in-1837
+{
+	margin:448 344 148 821;
+}
+.square.square-2
+{
+	z-index: 5;
+	margin: 440 326 121 903;
+}
+.brown-line3
+{
+	width: 13px;
+  height: 381px;
+  object-fit: contain;
+  background-color: #ceb396;
+  margin: 238 162 0 1106;
+  position: absolute;
+}
+
+.scroll{
+	top:0px;
+	-webkit-transition: all 2s ease-in-out 1s;
+	left: 0px;
+	overflow: hidden;
+	position: absolute;
+    width:1210px ;
+    height:530px ;
+	margin:50 0 55 162;
+	background:url('../images/artwork4.png') 100% 100% no-repeat;
+	background-size: cover;
+	z-index: 1;
+}
+.scroll .green-rect4
+{
+  top: 0px;
+  left: 0px;
+  width: 302px;
+  height: 321px;
+  object-fit: contain;
+  background-color: #4d6a68;
+  position: absolute;
+  -webkit-transition: all 2s ease-in-out 1s;
+  margin: 0 642 150 13;
+  
+}
+.scroll:hover .green-rect4
+{
+   left: -101px;
+}
+.scroll:hover
+{
+	left:-200px;
+}
+.scroll .group
+{
+  left: 0px;
+  -webkit-transition: all 2s ease-in-out 1s;
+  width: 190px;
+  height: 190px;
+  object-fit: contain;
+  position: absolute;
+  margin:150 214 129 500;
+}
+.scroll:hover .group
+{
+   left: -120px;
+}
+.scroll .green-line4
+{
+  -webkit-transition: all 2s ease-in-out 1s;
+  top:0px;
+  left:0px;
+  width: 13px;
+  height: 339px;
+  object-fit: contain;
+  background-color: #4d6a68;
+  position: absolute;
+  margin:0 944 ;
+}
+.scroll:hover .green-line4
+{
+
+   top:90px;
+   left:200px;
+}
+.scroll .white-rect4
+{
+  -webkit-transition: all 2s ease-in-out 1s;
+  top: 0px;
+  left: 0px;
+  width: 45px;
+  height: 45px;
+  object-fit: contain;
+  background-color: #f8f1ef;
+  position: absolute;
+  margin:485 912;
+}
+.scroll:hover .white-rect4
+{
+  top: -249px;
+  left: -82px;
+  width: 313px;
+  height: 294px;
+}
+.in-1836
+{
+  width: 253px;
+  height: 262px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #fffefe;
+  position: absolute;
+  margin: 35 26 24 23;
+}
+.in-1836.in-1839
+{
+  height: 244px;
+  color: #101010;
+}
+.white-line4
+{
+	width: 14px;
+  height: 209px;
+  object-fit: contain;
+  background-color:  #f8f1ef;
+  position: absolute;
+  z-index: 4;
+  margin:59  162;
+}
+#section4
+{
+	position: relative;
+}
+.cub1-4
+{
+  width: 162px;
+  height: 619px;
+  object-fit: contain;
+  background-color: #f8f1ef;
+  margin: -350 1119;
+  position:absolute;
+  z-index: 3;
+}
+.cub2-4
+{
+  width: 162px;
+  height: 619px;
+  object-fit: contain;
+  background-color: #f8f1ef;
+  margin: -350 0;
+  position:absolute;
+  z-index: 3;
+}
+ 
+
+.artwork6
+{
+	width: 498px;
+  height: 389px;
+  object-fit: contain;
+  margin: 121 210 109 573;
+}
+.green-rect6 {
+  width: 259px;
+  height: 152px;
+  object-fit: contain;
+  background-color: #4e6a6c;
+  margin:0 751 467 271;
+  position: absolute;
+}
+
+.in-1833.in-1844
+{
+	margin:122 757 466 277;
+	font-size: 71px;
+}
+.upon-his-return{
+  width: 254px;
+  height: 173px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  margin: 180 753 259 274;
+  position: absolute;
+   }
+p>span
+{
+	white-space:pre-wrap;
+}
+.blue-line6
+{
+  width: 14px;
+  height: 388px;
+  object-fit: contain;
+  background-color: #4aa196;
+  position: absolute;
+  margin:231 161 0 1106 ;
+}
+
+.brown-line6
+{
+	object-fit: contain;
+	position: absolute;
+    background-color: #bfbf9a;
+	margin: 579 1107 0 160;
+	width: 14px;
+    height: 40px;
+}
+.artwork7
+{
+	width: 278;
+	height: 587px;
+   object-fit: contain;
+   margin:0 706 32 266;
+}
+.workshop {
+  width: 331px;
+  height: 70px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 74px;
+  line-height: 0.24;
+  letter-spacing: 3px;
+  text-align: justify;
+  color: #101010;
+  margin: 101 319 448 630;
+  position: absolute;
+}
+.in-1837-7 {
+	z-index: 2;
+  width: 116px;
+  height: 26px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin: 213 456 386 708 ;
+}
+.blue-square7 {
+  z-index: 1;
+  width: 52px;
+  height: 54px;
+  object-fit: contain;
+  background-color: #d9ecf2;
+  position: absolute;
+  margin: 179 437 386 791;
+}
+.aivazovsky-built{
+  width: 254px;
+  height: 209px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin:253 317 157 709 ;
+}
+.see-art
+{
+	text-align: right;
+	padding-left: 175px;
+}
+.brown-line7
+{
+  width: 14px;
+  height: 391px;
+  object-fit: contain;
+  margin:0 160 228 1106 ;
+  background-color: #beada3;
+  position: absolute;
+}
+.blue-line7
+{
+  width: 14px;
+  height: 24px;
+  object-fit: contain;
+  background-color: #c8d0d3;
+  position: absolute;
+  margin:0 1106 595 160 ;
+}
+.style-8 {
+  width: 161px;
+  height: 70px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 74.7px;
+  margin:108 41 409 316;
+  line-height: 0.24;
+  letter-spacing: 1.5px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  z-index: 3;
+}
+.effect{
+	overflow: hidden;
+	position: relative;
+	width: 1281px;
+	height: 619px;
+}
+.effect img
+{
+	width: 945px;
+    height:586px;
+    object-fit: contain;
+    margin: 15 162 17 174;
+    position: relative;
+    z-index: 1;
+}
+.effect .cub1-8
+{
+	position: absolute;
+	z-index:2;
+	margin:15 593 17 170;
+	background-color: f9f2f0;
+	top:0px;
+	left:0%;
+	width: 518px;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect .cub2-8
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 177px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:15 156 17 948;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect:hover .cub1-8
+{
+	 left:-700px;
+}
+.effect:hover .cub2-8
+{
+	 left:200px;
+}
+.aivazovsky-frequently
+{
+  width: 253px;
+  height: 31px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin:194 48 362 217 ;
+  z-index: 3;
+}
+
+.the-artist
+{
+  width: 254px;
+  height: 211px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin:258 101 118 163;
+  z-index: 3;
+}
+.artwork9 {
+  width: 915px;
+  height: 597px;
+  object-fit: contain;
+  z-index: 1;
+  position: relative;
+  margin:11 192 11 174 ;
+}
+.cub9
+{
+	height:277;
+	width:315;
+	z-index:2;
+	margin:11 176 326 790;
+	background-color: f9f2f0;
+	position: absolute;
+}
+.romantic-painter
+{
+  width: 255px;
+  height: 193px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin: 51 33 33 27;
+}
+.romantic-painter:first-letter
+{
+   font-size: 37.3px;
+  line-height: 0.48;
+  letter-spacing: -0.7px;
+}
+.brown-line9
+{
+  width: 14px;
+  height: 398px;
+  object-fit: contain;
+  background-color: #d5c5b6;
+  margin: 5 162 205 1105;
+  position: fixed;
+  z-index: 3;
+}
+.artwork10
+{
+	width: 465px;
+  height: 552px;
+  object-fit: contain;
+  margin:5 176 65 640 ;
+}
+.black-line10
+{
+  width: 13px;
+  height: 391px;
+  object-fit: contain;
+  margin: 226 162 2 1106 ;
+  
+  position: fixed;
+}
+.the-last
+{
+	width: 334px;
+  height: 118px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 74.7px;
+  position:absolute;
+  margin:186 702 315 245;
+  line-height: 0.89;
+  letter-spacing: 1.5px;
+  text-align: justify;
+  color: #101010;
+}
+.the-last.decade
+{
+	margin:255 682 301 360;
+}
+.the-last-decade
+{
+  width: 248px;
+  height: 139px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position:absolute;
+  margin:341 701 139 332 ;
+}
+.artwork11
+{
+  width: 787px;
+  height: 539px;
+  object-fit: contain;
+  margin:67 174 13 319 ;
+  z-index: 1;
+  position: relative;
+}
+.green-rect11
+{
+  width: 285px;
+  height: 241px;
+  object-fit: contain;
+  background-color: #4d6a68;
+  position: absolute;
+  z-index: 2;
+  margin: 2 834 361 161 ;
+}
+.his
+{
+  width: 248px;
+  height: 191px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.5;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #f8f1ef;
+  position: absolute;
+  margin:27 19 23 18 ;
+  z-index: 3;
+}
+.h
+{
+  font-size: 37.3px;
+  line-height: 0.54;
+  letter-spacing: -0.7px;
+}
+.brown-line11
+{
+  width: 14px;
+  height: 281px;
+  object-fit: contain;
+  position: absolute;
+  margin:216 160 122 1106 ;
+  background-color: #d5c5b6;
+}
+.artwork12 {
+  width: 630px;
+  height: 420px;
+  object-fit: contain;
+  margin: 90 490 109 161;
+  position: relative;
+}
+.brown-rect12
+{
+  width: 298px;
+  height: 139px;
+  object-fit: contain;
+  background-color: #ceb396;
+  position: absolute;
+  margin:16 175 464 808 ;
+  z-index:1;
+}
+.in-1898
+{
+  width: 231px;
+  height: 52px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 72px;
+  line-height: 0.24;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #f8f1ef;
+  position:absolute;
+  z-index: 2;
+  margin:127 209 458 841 ;
+}
+.aivazovsky-created
+{
+  width: 249px;
+  height: 211px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position:absolute;
+  margin: 186 193 222 839;
+}
+.blue-line12
+{
+  width: 14px;
+  height: 375px;
+  object-fit: contain;
+  background-color: #719eb4;
+  position: absolute;
+  margin:244 161 5 1106 ;
+}
+.artwork14
+{
+	width: 629px;
+  height: 466px;
+  object-fit: contain;
+  margin: 87 491 66 161;
+}
+.in-1855
+{
+  width: 116px;
+  height: 26px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin:148 340 445 825;
+}
+.at-the-age
+{
+  width: 249px;
+  height: 85px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+  position: absolute;
+  margin:187 199 347 833 ;
+}
+.at-the-age.aivazovsky-was
+{
+  height: 175px;
+  margin: 293 198 151 835;
+}
+.green-line14
+{
+  width: 14px;
+  height: 395px;
+  object-fit: contain;
+  background-color: #4d6a68;
+  position: absolute;
+  margin: 223 161 1 1106;
+}
+.artwork13
+{
+  width: 410px;
+  height: 587px;
+  object-fit: contain;
+  margin:16 237 16 634;
+}
+.april-1900
+{
+   width: 339px;
+  height: 124px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 74px;
+  line-height: 0.95;
+  letter-spacing: normal;
+  text-align: justify;
+  color: #101010;
+  margin: 134 705 358 237 ;
+  position: absolute;
+}
+.in-accordance
+{
+	width: 249px;
+  height: 101px;
+  object-fit: contain;
+  font-family: Century;
+  font-size: 13.3px;
+  position: absolute;
+  margin: 309 703 209 329;
+  line-height: 1.35;
+  letter-spacing: -0.3px;
+  text-align: justify;
+  color: #101010;
+}
+.brown-line13 {
+  width: 14px;
+  height: 395px;
+  object-fit: contain;
+  background-color: #767a67;
+  position: absolute;
+  margin: 2 161 224 1106;
+}
+.april-1900.april
+{
+	margin: 210 435;
+
+}
+.lev-lagorio {
+  width: 188px;
+  height: 35px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: left;
+  color: #101010;
+  margin:291 113 293 332;
+  position: absolute;
+  z-index: 3;
+}
+div[class^="effect"]{
+	overflow: hidden;
+	position: relative;
+	width: 1281px;
+	height: 619px;
+}
+.effect15 img
+{
+	width: 1045px;
+    height:584px;
+    object-fit: contain;
+    margin: 18 121 17 115;
+    position: relative;
+    z-index: 1;
+}
+.effect15 .cub1-15
+{
+	position: absolute;
+	z-index:2;
+	margin:0 648 0 0;
+	background-color: f9f2f0;
+	top:0px;
+	left:0%;
+	width: 633px;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect15 .cub2-15
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 334px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:0 0 0 946;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect15:hover .cub1-15
+{
+	 left:-700px;
+}
+.effect15:hover .cub2-15
+{
+	 left:400px;
+}
+.brown-line15
+{
+	width: 14px;
+  height: 288px;
+  object-fit: contain;
+  background-color: #cba187;
+  margin:120 161 210 159 ;
+  position: absolute;
+  z-index: 3;
+}
+.konstantin-bogaevsky {
+  width: 355px;
+  height: 35px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: left;
+  color: #101010;
+  margin:290 129 292 73 ;
+  position: absolute;
+  z-index: 3;
+}
+.effect16 img
+{
+	width: 935px;
+    height:584px;
+    object-fit: contain;
+    margin: 0 174;
+    position: relative;
+    z-index: 1;
+}
+.effect16 .cub1-16
+{
+	position: absolute;
+	z-index:2;
+	margin:0 1038 0 0;
+	background-color: f9f2f0;
+	top:0px;
+	left:0%;
+	width: 243px;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect16 .cub2-16
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 557px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:0 162 0 562;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect16:hover .cub1-16
+{
+	 left:-100px;
+}
+.effect16:hover .cub2-16
+{
+	 left:800px;
+}
+.blue-line16
+{
+	width: 14px;
+  height: 358px;
+  object-fit: contain;
+  background-color: #719eb4;
+  margin:244 0 15 543 ;
+  position: absolute;
+  z-index: 3;
+}
+.vasily-surikov {
+  width: 225px;
+  height: 35px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 36px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: left;
+  margin: 290 106 294 316;
+  color: #101010;
+  position: absolute;
+  z-index: 3;
+}
+
+.effect17 img
+{
+	width: 960px;
+    height: 586px;
+    object-fit: contain;
+    margin:18 163 15 158;
+    position: relative;
+    z-index: 1;
+}
+.effect17 .cub1-17
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 647px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:0 634 0 0;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect17 .cub2-17
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 258px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:0 76 0 947;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect17:hover .cub1-17
+{
+	 left:-700px;
+}
+.effect17:hover .cub2-17
+{
+	 left:300px;
+}
+.alexei-savrasov {
+  width: 270px;
+  height: 35px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 37.4px;
+  line-height: 0.48;
+  letter-spacing: normal;
+  text-align: left;
+  margin: 291 322 293 56 ;
+  color: #101010;
+  position: absolute;
+  z-index: 3;
+}
+
+.effect18 img
+{
+	width: 944px;
+  height: 618px;
+  object-fit: contain;
+    margin:1  176 0 161;
+    position: relative;
+    z-index: 1;
+}
+.effect18 .cub1-18
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 319px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:0 962 0 0;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect18 .cub2-18
+{
+	position: absolute;
+	top:0px;
+	left:0%;
+	width: 648px;
+	background-color: f9f2f0;
+	z-index:2;
+	margin:0 0 0 633;
+	height: 619px;
+	-webkit-transition: all 2s ease-in-out 1s;
+}
+.effect18:hover .cub1-18
+{
+	 left:-400px;
+}
+.effect18:hover .cub2-18
+{
+	 left:700px;
+}
+.black-line18
+{
+	width: 14px;
+  height: 437px;
+  object-fit: contain;
+  background-color: #4d6a68;
+  position: absolute;
+  z-index: 3;
+  margin:29 162 153 472 ;
+}
+
+.thank-you
+{
+	width: 350px;
+  height: 250px;
+  object-fit: contain;
+  font-family: BodoniMT;
+  font-size: 74.7px;
+  margin:153 596 216 386;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #101010;  
+  position:relative;
+}
+
+.blue-line19
+{
+  width: 14px;
+  height: 29px;
+  object-fit: contain;
+  background-color: #719eb4;
+  margin: 72 946 518 320;
+  position: absolute;
+  
+}
+.green-line19
+{
+	width: 14px;
+  height: 224px;
+  object-fit: contain;
+  background-color: #4d6a68;
+  margin: 382 160 13 1106;
+  position: absolute;
+  
+}
