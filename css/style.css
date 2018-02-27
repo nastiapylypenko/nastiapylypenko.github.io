@@ -345,6 +345,7 @@ img.ship
 #section4
 {
 	position: relative;
+  max-width: 100%;
 }
 .cub1-4
 {
@@ -352,7 +353,7 @@ img.ship
   height: 622px;
   object-fit: contain;
   background-color: #f8f1ef;
-  margin: -350 1119;
+  margin: -352 1119;
   position:absolute;
   z-index: 3;
 }
@@ -362,7 +363,7 @@ img.ship
   height: 622px;
   object-fit: contain;
   background-color: #f8f1ef;
-  margin: -350 0;
+  margin: -352 0;
   position:absolute;
   z-index: 3;
 }
